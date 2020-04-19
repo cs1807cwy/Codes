@@ -5,9 +5,5 @@
 For studying.
 
 ### 21 Points
-<table border="0">
-  <tr>
-    <a href="/21points"></a>
-  </tr>
-</table>
+    <a href="/"></a>
 ### KNN MNIST
