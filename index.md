@@ -7,7 +7,7 @@ For studying.
 ### 21 Points
 <table border="0">
   <tr>
-    <a href="/21 Points">英文版</a>
+    <a href="/21points"></a>
   </tr>
 </table>
 ### KNN MNIST
