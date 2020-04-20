@@ -5,5 +5,6 @@
 For studying.
 
 ### 21 Points
-    <a href="https://github.com/cs1807cwy/cwy/tree/master/KNN%20MNIST"></a>
+
 ### KNN MNIST
+https://github.com/cs1807cwy/cwy/tree/master/KNN%20MNIST
