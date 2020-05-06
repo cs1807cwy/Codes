@@ -3,5 +3,5 @@
 学号：U201814680
 姓名：陈文扬
 
-#### 1.KNN_MNIST----KNN手写数字集机器学习
-#### 2.KNN_DEMO----KNN可视化
+#### 1.KNN_MNIST.py----KNN手写数字集机器学习
+#### 2.KNN_DEMO.py----KNN可视化
