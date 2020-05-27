@@ -7,6 +7,7 @@
 #### 1.KNN MNIST----手写数据集机器学习 & KNN可视化
 #### 2.Percepton----感知机可视化
 #### 3.BOW Naive Bayes Spliter----朴素贝叶斯词袋模型过滤器（English）
+#### 4.Gaussian Naive Bayes Voice Gender----高斯朴素贝叶斯男/女声分类器
 
 # Integrated Program Design
 程序设计综合课程设计
